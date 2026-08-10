@@ -3,7 +3,7 @@ Develop a geospatial AI/ML-based system, backed with physics informed decision m
 
 Outcomes:-
 
-Heat Stress Maps identifying urban hotspots
+Heat Stress Maps identifying urban hotspots.
 
 Quantitative assessment of key drivers contributing to urban heat
 
