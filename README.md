@@ -11,4 +11,4 @@ Validated AIML model capturing urban heat dynamics.
 
 Scenario-based evaluation of cooling interventions.
 
-Optimal intervention strategy, including: Type of intervention (e.g., green roofs, tree cover), Spatial placement and Estimated temperature reduction (°C)
+Optimal intervention strategy, including: Type of intervention (e.g., green roofs, tree cover), Spatial placement and Estimated temperature reduction (°C).
