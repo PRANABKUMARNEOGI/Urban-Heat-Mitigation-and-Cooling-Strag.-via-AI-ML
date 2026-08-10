@@ -5,10 +5,10 @@ Outcomes:-
 
 Heat Stress Maps identifying urban hotspots.
 
-Quantitative assessment of key drivers contributing to urban heat
+Quantitative assessment of key drivers contributing to urban heat.
 
-Validated AIML model capturing urban heat dynamics
+Validated AIML model capturing urban heat dynamics.
 
-Scenario-based evaluation of cooling interventions
+Scenario-based evaluation of cooling interventions.
 
 Optimal intervention strategy, including: Type of intervention (e.g., green roofs, tree cover), Spatial placement and Estimated temperature reduction (°C)
