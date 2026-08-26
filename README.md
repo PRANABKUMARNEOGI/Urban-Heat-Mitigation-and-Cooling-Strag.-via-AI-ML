@@ -39,11 +39,16 @@ Urban Form & Infrastructure:
 Urban morphology from: OpenStreetMap, Global Human Settlement Layer & UT-GLOBUS (if available)
 Optional Modeling Tools:
 
-###**SOLWEIG & InVEST**
+### **SOLWEIG & InVEST**
 Outcomes
+
 Heat Stress Maps identifying urban hotspots
+
 Quantitative assessment of key drivers contributing to urban heat
+
 Validated AIML model capturing urban heat dynamics
+
 Scenario-based evaluation of cooling interventions
+
 Optimal intervention strategy, including: Type of intervention (e.g., green roofs, tree cover), Spatial placement and Estimated temperature reduction (°C)
 
