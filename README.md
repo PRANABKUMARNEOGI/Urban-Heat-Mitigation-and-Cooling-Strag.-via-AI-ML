@@ -5,6 +5,7 @@
 Participants are expected to develop a framework to:
 
 **Identify Urban Heat Hotspots**
+
 1.Generate heat stress maps using satellite and meteorological data
 
 2.Analyze Drivers of Urban Heating
