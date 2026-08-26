@@ -6,23 +6,31 @@ Participants are expected to develop a framework to:
 
 **Identify Urban Heat Hotspots**
 1.Generate heat stress maps using satellite and meteorological data
+
 2.Analyze Drivers of Urban Heating
+
 3.Quantify the influence of factors such as land use/land cover, urban morphology, vegetation, and atmospheric conditions
+
 4.Model Heat Dynamics using AIML
+
 5.Establish relationships between land surface temperature (LST) and contributing factors using physics-informed ML approaches
+
 6.Generate and Optimize Cooling Scenarios
+
 7.Simulate interventions (e.g., urban greening, cool roofs, albedo changes, water bodies) and evaluate their effectiveness in reducing heat stress
 
-** Input Datasets**
+**Input Datasets**
 Participants may use the following datasets:
 
 Remote Sensing Data:
 
 1.Land Surface Temperature derived from Landsat 8
+
 2.Land Surface Temperature from ECOSTRESS
+
 3.Land Use/Land Cover from Sentinel-2 / Landsat
 
-** Meteorological Data:**
+**Meteorological Data:**
 
 Atmospheric variables (air temperature, humidity, wind speed) from ERA5 & Central Pollution Control Board
 Urban Form & Infrastructure:
@@ -30,7 +38,7 @@ Urban Form & Infrastructure:
 Urban morphology from: OpenStreetMap, Global Human Settlement Layer & UT-GLOBUS (if available)
 Optional Modeling Tools:
 
-### ** SOLWEIG & InVEST **
+### **SOLWEIG & InVEST **
 Outcomes
 Heat Stress Maps identifying urban hotspots
 Quantitative assessment of key drivers contributing to urban heat
