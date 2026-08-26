@@ -38,7 +38,7 @@ Urban Form & Infrastructure:
 Urban morphology from: OpenStreetMap, Global Human Settlement Layer & UT-GLOBUS (if available)
 Optional Modeling Tools:
 
-### **SOLWEIG & InVEST **
+###**SOLWEIG & InVEST**
 Outcomes
 Heat Stress Maps identifying urban hotspots
 Quantitative assessment of key drivers contributing to urban heat
